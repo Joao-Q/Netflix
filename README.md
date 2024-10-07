@@ -60,3 +60,7 @@ Here are some suggestions for Netflix to consider:
 - 📈 **Content Strategy**: Given the popularity of international content and dramas, Netflix should continue expanding these categories to attract a wider audience.
 - 👨‍👩‍👧 **Rating Distribution**: Netflix could introduce more family-friendly content (G or PG ratings) to appeal to younger audiences.
 - 🌍 **Country-Specific Expansion**: Netflix should strengthen partnerships in top content-producing countries like India and the UK for sustained growth.
+  
+## 🗂 **Dataset**
+
+The dataset used for this project was sourced from [Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows/data)
